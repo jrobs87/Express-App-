@@ -1,6 +1,6 @@
-# Project Title
+# Express App
 
-One Paragraph of project description goes here
+Scaffolding for Express Apps
 
 ## Getting Started
 
